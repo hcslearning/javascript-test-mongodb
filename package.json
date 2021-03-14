@@ -1,0 +1,19 @@
+{
+  "name": "javascript-test-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^1.2.3",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.4"
+  }
+}
